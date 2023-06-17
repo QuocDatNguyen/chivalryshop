@@ -7,39 +7,39 @@ include_once("connection.php");
 			<div class="block-slider block-slider4">
 				<ul class="" id="bxslider-home4">
 					<li>
-						<img src="img/cv00.png" style="width: 40%;" alt="Slide">
+						<img src="img/pro9.png" style="width: 40%;" alt="Slide">
 						<div class="caption-group">
 							<h2 class="caption title">
-                            CW Regular T-shirt <span class="primary"> <strong></strong></span>
+                            Fado <span class="primary"> <strong></strong></span>
 							</h2>
-							<h4 class="caption subtitle">TOPS</h4>
+							<h4 class="caption subtitle">Smart Talking Robots</h4>
 							<a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
 						</div>
 					</li>
-					<li><img src="img/cv01.png" style="width: 40%;" alt="Slide">
+					<li><img src="img/pro8.png" style="width: 40%;" alt="Slide">
 						<div class="caption-group">
 							<h2 class="caption title">
-                            CW Denim Jacket <span class="primary"> <strong></strong></span>
+                            Amazon <span class="primary"> <strong></strong></span>
 							</h2>
-							<h4 class="caption subtitle">TOPS</h4>
+							<h4 class="caption subtitle">Remote Controller Robots</h4>
 							<a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
 						</div>
 					</li>
-					<li><img src="img/cv03.png" style="width: 40%;" alt="Slide">
+					<li><img src="img/pro7.png" style="width: 40%;" alt="Slide">
 						<div class="caption-group">
 							<h2 class="caption title">
-                            CW Cravat <span class="primary"> <strong></strong></span>
+                            Pruugo <span class="primary"> <strong></strong></span>
 							</h2>
-							<h4 class="caption subtitle">ACCESSORIES </h4>
+							<h4 class="caption subtitle">Remote Controller Robots </h4>
 							<a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
 						</div>
 					</li>
-					<li><img src="img/cv04.png" style="width: 40%;" alt="Slide">
+					<li><img src="img/pro6.png" style="width: 40%;" alt="Slide">
 						<div class="caption-group">
-						  <h2 class="caption title">
-                          'The Director' Varsity Jacket <span class="primary"><strong></strong></span>
+						    <h2 class="caption title">
+                            Peter <span class="primary"><strong></strong></span>
 							</h2>
-							<h4 class="caption subtitle">TOPS</h4>
+							<h4 class="caption subtitle">Remote Controller Robots</h4>
 							<a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
 						</div>
 					</li>
@@ -174,7 +174,7 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$380.00</ins> <del>$425.00</del>
+                                <ins>$2.380.00</ins> <del>$2.425.00</del>
                             </div>                            
                         </div>
                         <div class="single-wid-product">

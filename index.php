@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chivalry-warehouse</title>
+    <title>Toy-warehouse</title>
     
     <!-- Google Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,700,600' rel='stylesheet' type='text/css'>
@@ -131,13 +131,13 @@
 						<div class="mainmenu pull-left">
 							<ul class="nav navbar-nav collapse navbar-collapse">
 								<li><a href="index.php" class="active">HOME</a></li>
-								<li class="dropdown"><a href="#">SHOP ALL<i class="fa fa-angle-down"></i></a>
+								<!-- <li class="dropdown"><a href="#">SHOP ALL<i class="fa fa-angle-down"></i></a>
                                     <ul role="menu" class="sub-menu">
                                         <li><a href="">TOPS</a></li>
 										<li><a href="">BOTTOMS</a></li> 
 										<li><a href="">ACCESSORIES</a></li> 
                                     </ul>
-                                </li> 
+                                </li>  -->
                                 <li><a href="index.php" class="active">ABOUT US</a></li>
 								<li class="dropdown"><a href="#">MANAGEMENT<i class="fa fa-angle-down"></i></a>
                                     <ul role="menu" class="sub-menu">
