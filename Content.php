@@ -164,8 +164,8 @@ include_once("connection.php");
                         <h2 class="product-wid-title">Bestseller</h2>
                         <a href="" class="wid-view-more">View All</a>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/cv00.png" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">CW Regular T-shirt</a></h2>
+                            <a href="single-product.html"><img src="img/pro9.png" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html">Fado</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -174,12 +174,12 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$2.380.00</ins> <del>$2.425.00</del>
+                                <ins>$2.200.000</ins> <del>$2.425.00</del>
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/cv03.png" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html"></a>CW Cravat</h2>
+                            <a href="single-product.html"><img src="img/pro8.png" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html"></a>Amazon</h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -188,12 +188,12 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$180.00</ins> 
+                                <ins>$1.200.000</ins> 
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/cv04.png" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">‘The Director’ Varsity Jacket</a></h2>
+                            <a href="single-product.html"><img src="img/pro7.png" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html">Pruugo</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -202,7 +202,7 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$1050.00</ins>
+                                <ins>$1.400.000</ins>
                             </div>                            
                         </div>
                     </div>
@@ -212,8 +212,8 @@ include_once("connection.php");
                         <h2 class="product-wid-title">Recently Viewed</h2>
                         <a href="#" class="wid-view-more">View All</a>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/cv005.png" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">CW Shirt In Heavy Cotton – BLACK</a></h2>
+                            <a href="single-product.html"><img src="img/pro6.png" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html">Peter</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -222,12 +222,12 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$550.00</ins>
+                                <ins>$1.400.000</ins>
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/cv006.png" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">CW Shirt In Heavy Cotton – WHITE</a></h2>
+                            <a href="single-product.html"><img src="img/pro5.png" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html">Moxie</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -236,12 +236,12 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$550.00</ins> 
+                                <ins>$3.000.000</ins> 
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/cv01.png" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">CW Denim Jacket</a></h2>
+                            <a href="single-product.html"><img src="img/pro4.png" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html">Line</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -250,7 +250,7 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$930.00</ins>
+                                <ins>$2.800.000</ins>
                             </div>                            
                         </div>
                     </div>
@@ -260,8 +260,8 @@ include_once("connection.php");
                         <h2 class="product-wid-title">Latest</h2>
                         <a href="#" class="wid-view-more">View All</a>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/cv007.png" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">CW Boot Cut Flare Jeans</a></h2>
+                            <a href="single-product.html"><img src="img/pro3.png" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html">Cele</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -270,12 +270,12 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$680.00</ins>
+                                <ins>$2.300.000</ins>
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/cv008.png" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">CW FLARE PANTS</a></h2>
+                            <a href="single-product.html"><img src="img/pro2.png" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html">Retro</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -284,12 +284,12 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$600.00</ins> 
+                                <ins>$1.000.000</ins> 
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/cv009.png" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Baggy Pants in Shiny Silk</a></h2>
+                            <a href="single-product.html"><img src="img/pro1.png" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html">RC</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -298,7 +298,7 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$650.00</ins> 
+                                <ins>$1.500.000</ins> 
                             </div>                            
                         </div>
                     </div>
