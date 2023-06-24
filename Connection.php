@@ -4,6 +4,6 @@
 ?>
 
 <?php
-    $conn = mysqli_connect('td5l74lo6615qq42.cbetxkdyhwsb.us-east-1.rds.amazonaws.com', 'igbal4yj685ysj2z', 'emtlgbvh88nufupn','brxumu7zj2foymyw')
+    $conn = mysqli_connect('co28d739i4m2sb7j.cbetxkdyhwsb.us-east-1.rds.amazonaws.com', 'bqr3peptm38e8oru', 'ucxue46fuoiwg1nb','vhr97mgxpnfi5i7z')
         or die("Can not connect database" . mysqli_connect_error());
 ?>
